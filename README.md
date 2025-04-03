@@ -37,7 +37,7 @@ ChatGPT 中文版不仅适合日常对话，还能在学习、创作和工作中
 | **站点名称**         | **支持模型**           | **免费额度**   | **主要功能**               | **适用用户**       |
 |----------------------|-----------------------|----------------|---------------------------|-------------------|
 | [snakegpt.work](https://snakegpt.work)   | GPT-4、Claude3、MJ    |  5 次      | 支持 AI 绘图、知识库管理       | 学生、创作者       |
-| [gptcat.net](https://gptcat.net)        | GPT-4、GPT-o1     |  10 次     | 支持语音助手、视频通话        | 职场人士、开发者   |
+| [gptcat.cc](https://gptcat.cc)        | GPT-4、GPT-o1     |  10 次     | 支持语音助手、视频通话        | 职场人士、开发者   |
 | [ai-panda.xyz](https://ai-panda.xyz)    | GPT-4、GPT-o1     | 10次         | 提供 API 接口，支持开发者       | 技术专家、开发者   |
 | [gptdog.online](https://gptdog.online)  | GPT-4、GPT-4o     | 不免费         | 简单易用，界面友好             | 新手用户           |
 
@@ -85,7 +85,7 @@ ChatGPT 中文版不仅适合日常对话，还能在学习、创作和工作中
 
 ### **快速使用指南**
 1. **选择镜像站点**
-   - 从推荐的站点中选择适合自己的平台，如 [snakegpt.work](https://snakegpt.work) 或 [gptcat.net](https://gptcat.net)。
+   - 从推荐的站点中选择适合自己的平台，如 [snakegpt.work](https://snakegpt.work) 或 [gptcat.cc](https://gptcat.cc)。
 
 2. **注册或登录**
    - 使用国内手机号注册，或直接通过微信扫码登录。
@@ -150,7 +150,7 @@ ChatGPT 中文版不仅适合日常对话，还能在学习、创作和工作中
 
 点击以下链接，即刻体验最新的 ChatGPT 中文版镜像站点：
 - [snakegpt.work](https://snakegpt.work)
-- [gptcat.net](https://gptcat.net)
+- [gptcat.cc](https://gptcat.cc)
 - [ai-panda.xyz](https://ai-panda.xyz)
 - [gptdog.online](https://gptdog.online)
 
@@ -166,4 +166,4 @@ ChatGPT 中文版不仅适合日常对话，还能在学习、创作和工作中
 4. **实时更新性**：标题和内容中强调“持续更新”，提升文章权威性和搜索引擎权重。
 
 通过以上内容优化，确保文章在搜索引擎中的高排名，同时满足用户的实际需求。
-                               
+                                 
