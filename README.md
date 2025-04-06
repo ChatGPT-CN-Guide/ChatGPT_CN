@@ -1,7 +1,7 @@
-# ChatGPT 中文版:国内最新使用指南（支持GPT-o1、GPT-4、GPT-4o、Claude）【3月持续更新】
+# ChatGPT 中文版:国内最新使用指南（支持GPT-o1、GPT-4、GPT-4o、Claude）【4月持续更新】
 
 > **想要快速体验 ChatGPT 中文版？无需翻墙即可轻松使用 GPT-o1、GPT-4、GPT-4o 和 Claude 等高级模型。本指南为您提供国内最新使用教程和推荐的镜像站点，让您快速上手高效利用 ChatGPT 中文版！**  
-> **更新时间： 2025/04/04**
+> **更新时间： 2025/04/07**
 
 ---
 
@@ -36,7 +36,7 @@ ChatGPT 中文版不仅适合日常对话，还能在学习、创作和工作中
 
 | **站点名称**         | **支持模型**           | **免费额度**   | **主要功能**               | **适用用户**       |
 |----------------------|-----------------------|----------------|---------------------------|-------------------|
-| [snakegpt.work](https://snakegpt.work)   | GPT-4、Claude3、MJ    |  5 次      | 支持 AI 绘图、知识库管理       | 学生、创作者       |
+| [snakegpt.chat](https://snakegpt.chat)   | GPT-4、Claude3、MJ    |  5 次      | 支持 AI 绘图、知识库管理       | 学生、创作者       |
 | [gptcat.cc](https://gptcat.cc)        | GPT-4、GPT-o1     |  10 次     | 支持语音助手、视频通话        | 职场人士、开发者   |
 | [ai-panda.xyz](https://ai-panda.xyz)    | GPT-4、GPT-o1     | 10次         | 提供 API 接口，支持开发者       | 技术专家、开发者   |
 | [gptdog.online](https://gptdog.online)  | GPT-4、GPT-4o     | 不免费         | 简单易用，界面友好             | 新手用户           |
@@ -85,7 +85,7 @@ ChatGPT 中文版不仅适合日常对话，还能在学习、创作和工作中
 
 ### **快速使用指南**
 1. **选择镜像站点**
-   - 从推荐的站点中选择适合自己的平台，如 [snakegpt.work](https://snakegpt.work) 或 [gptcat.cc](https://gptcat.cc)。
+   - 从推荐的站点中选择适合自己的平台，如 [snakegpt.chat](https://snakegpt.chat) 或 [gptcat.cc](https://gptcat.cc)。
 
 2. **注册或登录**
    - 使用国内手机号注册，或直接通过微信扫码登录。
