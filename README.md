@@ -1,7 +1,7 @@
 # ChatGPT 中文版:国内最新使用指南（支持GPT-o1、GPT-4、GPT-4o、Claude）【4月持续更新】
 
 > **想要快速体验 ChatGPT 中文版？无需翻墙即可轻松使用 GPT-o1、GPT-4、GPT-4o 和 Claude 等高级模型。本指南为您提供国内最新使用教程和推荐的镜像站点，让您快速上手高效利用 ChatGPT 中文版！**  
-> **更新时间： 2025/04/07**
+> **更新时间： 2025/04/06**
 
 ---
 
@@ -149,7 +149,7 @@ ChatGPT 中文版不仅适合日常对话，还能在学习、创作和工作中
 ## **立即体验 ChatGPT 中文版！**
 
 点击以下链接，即刻体验最新的 ChatGPT 中文版镜像站点：
-- [snakegpt.work](https://snakegpt.work)
+- [snakegpt.chat](https://snakegpt.chat)
 - [gptcat.cc](https://gptcat.cc)
 - [ai-panda.xyz](https://ai-panda.xyz)
 - [gptdog.online](https://gptdog.online)
